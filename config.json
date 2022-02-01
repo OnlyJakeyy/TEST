@@ -1,0 +1,31 @@
+{
+
+    "bot": {
+        "login": "ADD-TOKEN-HERE"
+    },
+
+    "vanityprio": {
+        "channelid": "CHANNELID",
+
+        "roleid": "ROLEID",
+
+        "discordvanity": "VANITY"
+    },
+
+    "embed": {
+        "help": "#0000FF",
+        "hi": "#0000FF",
+        "add": "#AAFF00",
+        "took": "#FF0000"
+    },
+
+    "title": {
+        "add": "Vanity Role Added!",
+        "took": "Vanity Role Removed!"
+    },
+
+    "console": {
+        "logs": true
+    }
+
+}
